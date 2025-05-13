@@ -1,9 +1,9 @@
 Ops!
 
-Algo deu errado!
+Something went wrong!
 
-Não desista!
+Do not give up!
 
-Tente novamente!
+Try again!
 
-Tamo na area!
+Back in action!
